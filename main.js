@@ -4,3 +4,5 @@ let edad = prompt("Ingrese su edad: ");
 
 alert(`Bienvenido, ${nombre}`)
 
+let dias_vividos = edad*365;
+alert(`Usted ha vivido ${dias_vividos} dias, desde que nació`)
